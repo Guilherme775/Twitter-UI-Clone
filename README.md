@@ -1,4 +1,4 @@
-Twitter UI Clone
+# Twitter UI Clone
 
 </h2>
 
@@ -26,4 +26,11 @@ Extras:
   - [ESLint](https://eslint.org/)
   - [Prettier](https://prettier.io/)
 
-## 💻 Projeto
+# 💻 Projeto
+
+Desktop
+![Desktop](https://github.com/Guilherme775/Twitter-UI-Clone/blob/master/src/uploads/TwitterUiClone-desktop.PNG)
+
+![Tablet](https://github.com/Guilherme775/Twitter-UI-Clone/blob/master/src/uploads/TwitterUiClone-tablet.PNG)
+
+![Smartphone](https://github.com/Guilherme775/Twitter-UI-Clone/blob/master/src/uploads/TwitterUiClone-smartphone.PNG)
